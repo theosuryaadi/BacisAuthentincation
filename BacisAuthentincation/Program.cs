@@ -4,16 +4,22 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Test");
+        string input;
+
+        tampilan_awal();
+        Console.Write("Input : ");
+        input = Console.ReadLine();
+
+        Console.WriteLine(input);
     }
 
-    static void Nama()
+    static void tampilan_awal()
     {
-        Console.WriteLine("Theo");
-    }
-
-    public  void nama1()
-    {
-        Console.WriteLine("Ipal");
+        Console.WriteLine("==BASIC AUTHENTICATION==");
+        Console.WriteLine("1. Create User");
+        Console.WriteLine("2. Show User");
+        Console.WriteLine("3. Search User");
+        Console.WriteLine("4. Login User");
+        Console.WriteLine("5. Exit");
     }
 }
