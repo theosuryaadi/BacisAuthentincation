@@ -6,4 +6,9 @@ class Program
     {
         Console.WriteLine("Test");
     }
+
+    static void Nama()
+    {
+        Console.WriteLine("Theo");
+    }
 }
