@@ -1,0 +1,15 @@
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\bin\Debug\net6.0\BacisAuthentincation.exe
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\bin\Debug\net6.0\BacisAuthentincation.deps.json
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\bin\Debug\net6.0\BacisAuthentincation.runtimeconfig.json
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\bin\Debug\net6.0\BacisAuthentincation.dll
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\bin\Debug\net6.0\BacisAuthentincation.pdb
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.csproj.AssemblyReference.cache
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.AssemblyInfoInputs.cache
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.AssemblyInfo.cs
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.dll
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\refint\BacisAuthentincation.dll
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.pdb
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\BacisAuthentincation.genruntimeconfig.cache
+C:\Users\Theo\source\repos\BacisAuthentincation\BacisAuthentincation\obj\Debug\net6.0\ref\BacisAuthentincation.dll
