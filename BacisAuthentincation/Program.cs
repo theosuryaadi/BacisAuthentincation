@@ -11,4 +11,9 @@ class Program
     {
         Console.WriteLine("Theo");
     }
+
+    public  void nama1()
+    {
+        Console.WriteLine("Ipal");
+    }
 }
