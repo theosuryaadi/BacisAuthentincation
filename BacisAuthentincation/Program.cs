@@ -148,68 +148,6 @@ class Program
 
     }
 
-    static string[] create_user()
-    {
-        Console.Clear();
-        string first_name, last_name, password;
-        bool cek_password = true;
-        bool cek_name = true;
-
-        do
-        {
-            Console.Write("First Name: ");
-            first_name = Console.ReadLine();
-
-            if (first_name.Length < 2)
-            {
-                Console.WriteLine("\nName has to be at least consisting 2 characters or more.");
-                cek_name = true;
-            }
-            else
-            {
-                cek_name = false;
-            }
-
-        } while (cek_name);
-
-
-        do
-        {
-            Console.Write("Last Name: ");
-            last_name = Console.ReadLine();
-
-            if (last_name.Length < 2)
-            {
-                Console.WriteLine("\nName has to be at least consisting 2 characters or more.");
-                cek_name = true;
-            }
-            else
-            {
-                cek_name = false;
-            }
-
-        } while (cek_name);
-
-        do
-        {
-            Console.Write("Password: ");
-            password = Console.ReadLine();
-
-            if (password.Length > 8 && password.Any(Char.IsUpper) && password.Any(Char.IsLower))
-            {
-                Console.WriteLine("\nUser Success to Created!!!");
-                cek_password = false;
-            }
-            else
-            {
-                Console.WriteLine("\nPassword must have at least 8 characters\nwith at least one Capital letter, at least one lower case letter and at least one number.");
-            }
-
-        } while (cek_password);
-
-        return new[] { first_name, last_name, password };
-    }
-
     static void show_user(string[] fullname, string[] uname, string[] pass)
     {
         Console.Clear();
